@@ -1,0 +1,6 @@
+# igonre all files in folder test
+test/
+# ignore only  files of type txt in folder test1
+test1/*.txt
+# ignore only 1.txt in test2
+test2/2.txt
